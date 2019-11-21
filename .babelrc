@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/flow",
+    "@babel/react"
+  ],
+  "plugins": [
+    "flow-react-proptypes"
+  ]
+}
